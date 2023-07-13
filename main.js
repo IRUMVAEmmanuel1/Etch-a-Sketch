@@ -12,5 +12,5 @@ for(let i = 0; i<256; i++){
 populateBoard(16);
 
 function changesSize(input){
-    populateBoard()
+    populateBoard(input)
 }
