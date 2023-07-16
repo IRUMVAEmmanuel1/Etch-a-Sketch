@@ -19,4 +19,23 @@ function populateBoard(size) {
   
   populateBoard(16);
   
+  function changeSize(input) {
+    if (input >= 2 && input <= 100) {
+      document.querySelector(".error").style.display = "none";
+      populateBoard(input);
+    } else {
+      document.querySelector(".error").style.display = "flex";
+    }
+  }
+  
+  function colorSquare() {
+    if (click) {
+      if (color === "random") {
+        this.style.backgroundColor = `hsl(${Math.random() * 360}, 100%, 50%)`;
+      } else {
+        this.style.backgroundColor = color;
+      }
+    }
+  }
+
   
