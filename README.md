@@ -41,5 +41,5 @@ To clear the entire canvas and start fresh, click the "Clear" button. This will 
 
 ## Thank You
 
-This was not an easy journey but I would like the Andela KickStart Program who pushed me to do this. 
+This was not an easy journey but I would like the Andela KickStart Program that pushed me to do this. 
 so far so good.
