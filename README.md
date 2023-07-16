@@ -7,8 +7,8 @@ This is a simple Etch-a-Sketch program built using HTML, CSS, and JavaScript. It
 - [Usage](#usage)
 - [Customization](#customization)
 - [Clearing the Canvas](#clearing-the-canvas)
-- [Contributing](#contributing)
-- [License](#license)
+- [Thanking](#ThankYou)
+
 
 ## Installation
 
@@ -39,14 +39,7 @@ The changes will be applied immediately, allowing you to experiment and create v
 
 To clear the entire canvas and start fresh, click the "Clear" button. This will remove all drawings from the canvas, giving you a blank slate to work with.
 
-## Contributing
+## Thank You
 
-Contributions to this project are always welcome. If you find any bugs or have suggestions for improvements, please feel free to open an issue or submit a pull request.
-
-## License
-
-This Etch-a-Sketch program is licensed under the [MIT License](LICENSE). Feel free to modify and distribute it as per your needs.
-
----
-
-We hope you enjoy using this Etch-a-Sketch program! Have fun exploring your creativity and creating amazing artwork on the digital canvas. If you have any questions or need assistance, please don't hesitate to reach out. Happy sketching!
+This was not an easy journey but I would like the Andela KickStart Program who pushed me to do this. 
+so far so good.
