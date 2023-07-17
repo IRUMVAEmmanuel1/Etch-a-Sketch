@@ -1,4 +1,4 @@
-# Etch-a-Sketch Program
+# Etch-a-Sketch Program | Andela KickStart Program
 
 This is a simple Etch-a-Sketch program built using HTML, CSS, and JavaScript. It allows users to draw on a digital canvas by moving the mouse cursor over the designated drawing area. The program provides controls to customize the color and size of the drawing tool, as well as an option to clear the entire canvas.
 
